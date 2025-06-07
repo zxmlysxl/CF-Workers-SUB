@@ -651,7 +651,7 @@ async function KV(request, env, txt = 'ADD.txt', guest) {
 					SUBCONFIG（订阅转换配置文件）: <strong>${subConfig}</strong><br>
 					---------------------------------------------------------------<br>
 					################################################################<br>
-					${FileName} 汇聚订阅编辑: 
+					${FileName} 佐罗订阅编辑: 
 					<div class="editor-container">
 						${hasKV ? `
 						<textarea class="editor" 
